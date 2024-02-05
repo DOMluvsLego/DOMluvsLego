@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DOMluvsLego
-- 👀 NOt only am I a proud Gryffindor but I am also interested in Lego, gaming, and pretty much all things tech
+- 👀 Not only am I a proud Gryffindor but I am also interested in Lego, gaming, and pretty much all things tech
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on anything Im a sponge at this point
 - 📫 How to reach me dom.jhnson@gmail.com
